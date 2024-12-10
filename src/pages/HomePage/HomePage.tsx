@@ -51,7 +51,7 @@ const HomePage: FC = () => {
                             className={styles.catalogue__grid_game}
                             key={game.id}
                         >
-                            <img src={game.image} alt="logo" />
+                            <img src={game.image} alt="logo" loading="lazy" />
                             <p className={styles.catalogue__grid_game_title}>
                                 {game.name}
                             </p>

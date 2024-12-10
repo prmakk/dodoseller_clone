@@ -1,4 +1,4 @@
-import { FC } from "react";
+import { FC, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { Link as AnchorLink } from "react-scroll";
 import { ChevronsRight, House } from "lucide-react";
@@ -11,6 +11,10 @@ const GamePage: FC = () => {
     const { id } = useParams();
     const gameId = parseInt(id!, 10);
     const game = gamesCatalogue.find((game) => game.id === gameId);
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
 
     return (
         <div className={styles.game}>
