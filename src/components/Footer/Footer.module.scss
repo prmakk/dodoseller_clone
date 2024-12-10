@@ -7,5 +7,41 @@
         max-width: 1770px;
         margin: 0 auto;
         padding: 32px 20px;
+        color: rgb(121 121 121);
+
+        .rights {
+            margin-bottom: 16px;
+            font-size: 20px;
+            line-height: normal;
+
+            a {
+                color: rgb(121 121 121);
+            }
+
+            p {
+                font-size: 16px;
+            }
+        }
+
+        .address {
+            margin-bottom: 24px;
+            font-size: 16px;
+        }
+
+        .links {
+            display: flex;
+            gap: 80px;
+
+            a {
+                color: rgb(121 121 121);
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .footer .container .links {
+        flex-direction: column;
+        gap: 20px;
     }
 }
