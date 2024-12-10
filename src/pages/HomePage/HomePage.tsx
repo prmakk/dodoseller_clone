@@ -36,12 +36,7 @@ const HomePage: FC = () => {
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className={styles.slider__image}>
-                            <img src="slider_1.jpg" alt="image" />
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className={styles.slider__image}>
-                            <img src="slider_1.jpg" alt="image" />
+                            <img src="slider_2.jpg" alt="image" />
                         </div>
                     </SwiperSlide>
                 </Swiper>

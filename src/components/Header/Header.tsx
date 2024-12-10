@@ -9,7 +9,7 @@ const Header: FC = () => {
         <header className={styles.header}>
             <div className={styles.container}>
                 <Link to={"/"} className={styles.logo}>
-                    <img src="logo.png" alt="logo" />
+                    <img src="/logo.png" alt="logo" />
                 </Link>
                 <Link
                     to={"https://t.me/budkagemovbot"}

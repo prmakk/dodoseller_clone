@@ -5,6 +5,7 @@ import "./styles/global.scss";
 import HomePage from "./pages/HomePage/HomePage";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
+import GamePage from "./pages/GamePage/GamePage";
 
 function App() {
     return (
@@ -12,6 +13,7 @@ function App() {
             <Header />
             <Routes>
                 <Route path="/" element={<HomePage />} />
+                <Route path="/game/:id" element={<GamePage />} />
             </Routes>
             <Footer />
         </>
