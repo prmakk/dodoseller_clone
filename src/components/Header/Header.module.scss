@@ -5,6 +5,8 @@
     left: 0;
     right: 0;
     box-shadow: 0 0 4px #00000040;
+    z-index: 10;
+    background-color: #fff;
 
     .container {
         max-width: 1770px;
