@@ -248,7 +248,7 @@ export const gamesCatalogue = [
                         name: "1000 Кристаллов | 10X Выгода",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/740aa0be-0dae-40ad-a962-240e054aa259.jpg",
+                        image: "/shop_clashroyale_1.jpg",
                         cost: 169,
                     },
                     {
@@ -256,7 +256,7 @@ export const gamesCatalogue = [
                         name: "3000 Карт-Джокеров | 1 Часть Цепочки",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/e560dd7f-67d5-46de-b0ce-9ca1555cc8da.jpg",
+                        image: "/shop_clashroyale_2.jpg",
                         cost: 229,
                     },
                     {
@@ -264,14 +264,14 @@ export const gamesCatalogue = [
                         name: "2000 Кристаллов | Скидка За Первую Покупку ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/c9a0855d-9b42-4037-a745-3d44baedfded.jpg",
+                        image: "/shop_clashroyale_3.jpg",
                         cost: 239,
                     },
                     {
                         id: 76,
                         name: "Король Скелетов | Королевская Щедрость",
                         description: "",
-                        image: "https://s3.bilee.ru/dodoseller/9685ced9-b523-4091-ac6f-9ac91cc2fe80.jpg",
+                        image: "/shop_clashroyale_4.jpg",
                         cost: 249,
                     },
                     {
@@ -279,7 +279,7 @@ export const gamesCatalogue = [
                         name: "3000 Обычных Карт Джокеров | Цепочка Акций",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/c3eae252-53d1-4c31-8b39-a606cbdc1a7f.jpg",
+                        image: "/shop_clashroyale_5.jpg",
                         cost: 259,
                     },
                     {
@@ -287,7 +287,7 @@ export const gamesCatalogue = [
                         name: "Королева Лучниц | Акция ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/64622be7-fede-407e-94b7-92dd83c587e9.jpg",
+                        image: "/shop_clashroyale_6.jpg",
                         cost: 269,
                     },
                     {
@@ -295,7 +295,7 @@ export const gamesCatalogue = [
                         name: "2500 Кристаллов | Скидка На Первую Покупку",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/1193ddad-9ba8-4987-bbe6-a6e748b34d2c.jpg",
+                        image: "/shop_clashroyale_7.jpg",
                         cost: 269,
                     },
                     {
@@ -303,7 +303,7 @@ export const gamesCatalogue = [
                         name: "Шустрый Шахтёр ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/782f898d-de42-456c-8743-b9934a690e82.jpg",
+                        image: "/shop_clashroyale_8.jpg",
                         cost: 269,
                     },
                     {
@@ -311,7 +311,7 @@ export const gamesCatalogue = [
                         name: "Чемпионская Карта-Джокер | Королевская Шедрость 1 часть ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/aa6017b9-ad81-4013-90ce-e704dba010e3.jpg",
+                        image: "/shop_clashroyale_9.jpg",
                         cost: 279,
                     },
                     {
@@ -319,7 +319,7 @@ export const gamesCatalogue = [
                         name: "Монах | Королевская Щедрость",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/c0d05acf-ef92-4abb-bff2-48c43f8ef09e.jpg",
+                        image: "/shop_clashroyale_10.jpg",
                         cost: 279,
                     },
                     {
@@ -327,7 +327,7 @@ export const gamesCatalogue = [
                         name: "1500 Кристаллов | Скидка За Первую Покупку ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/5ec75eab-a146-4cb6-aad5-e862f070dc6c.jpg",
+                        image: "/shop_clashroyale_11.jpg",
                         cost: 299,
                     },
                     {
@@ -335,7 +335,7 @@ export const gamesCatalogue = [
                         name: "500 Редких Карт-Джокеров | 3 Часть Цепочки",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/3db5b0dc-af76-4765-9de2-921dd0ab47ec.jpg",
+                        image: "/shop_clashroyale_12.jpg",
                         cost: 329,
                     },
                     {
@@ -343,7 +343,7 @@ export const gamesCatalogue = [
                         name: "Гоблтнштейн | Королевская Шедрость",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/85d19d60-3b1f-4ad6-b911-7f82bc3e22ca.jpg",
+                        image: "/shop_clashroyale_13.jpg",
                         cost: 339,
                     },
                     {
@@ -351,7 +351,7 @@ export const gamesCatalogue = [
                         name: "5000 Карт-Джокеров | X8 Выгоды ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/426c6c61-5b8c-454d-a8b1-9c472f456bf4.jpg",
+                        image: "/shop_clashroyale_14.jpg",
                         cost: 389,
                     },
                     {
@@ -359,7 +359,7 @@ export const gamesCatalogue = [
                         name: "500 Редких Карт-Джокеров | Акция ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/db8db743-95d2-43e9-80bd-f00d94bdf420.jpg",
+                        image: "/shop_clashroyale_15.jpg",
                         cost: 399,
                     },
                     {
@@ -367,7 +367,7 @@ export const gamesCatalogue = [
                         name: "50 Эпических Карт-Джокеров | X8 Выгоды",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/0fdc2d6a-3f73-40d7-816d-27c196c4aa1f.jpg",
+                        image: "/shop_clashroyale_16.jpg",
                         cost: 399,
                     },
                     {
@@ -375,7 +375,7 @@ export const gamesCatalogue = [
                         name: "Распродажа Карт-Джокеров 3 | Акция",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/9d553b22-a106-49b1-816c-08495d9cecbf.jpg",
+                        image: "/shop_clashroyale_17.jpg",
                         cost: 419,
                     },
                     {
@@ -383,23 +383,23 @@ export const gamesCatalogue = [
                         name: "80 Эпических Карт-Джокеров | 5 Часть Цепочки",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/15edf229-2de6-460e-94ab-55042ae62529.jpg",
+                        image: "/shop_clashroyale_18.jpg",
                         cost: 429,
                     },
-                    {
-                        id: 25,
-                        name: "Свинка-копилка 185 000 Золота ",
-                        description:
-                            "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "",
-                        cost: 479,
-                    },
+                    // {
+                    //     id: 25,
+                    //     name: "Свинка-копилка 185 000 Золота ",
+                    //     description:
+                    //         "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
+                    //     image: "",
+                    //     cost: 479,
+                    // },
                     {
                         id: 108,
                         name: "Большой Парень ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/1110f383-c60f-41c0-b750-8d81589290d0.jpg",
+                        image: "/shop_clashroyale_19.jpg",
                         cost: 479,
                     },
                     {
@@ -407,7 +407,7 @@ export const gamesCatalogue = [
                         name: "Гоблинский Бур  | Мой Бур Пронзит Небеса ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/b648661f-405e-4d85-93d8-7c571435b8d1.jpg",
+                        image: "/shop_clashroyale_20.jpg",
                         cost: 479,
                     },
                     {
@@ -415,7 +415,7 @@ export const gamesCatalogue = [
                         name: "Внезапная Атака | Эволюция Клетки С Гоблином",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/e03b03fa-593c-4fbd-9445-bfb46f28db62.jpg",
+                        image: "/shop_clashroyale_21.jpg",
                         cost: 479,
                     },
                     {
@@ -423,7 +423,7 @@ export const gamesCatalogue = [
                         name: "Эволюция Скелетов",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/00ac02c2-85a1-43ce-bdd4-7bfad0db388b.jpg",
+                        image: "/shop_clashroyale_22.jpg",
                         cost: 479,
                     },
                     {
@@ -431,7 +431,7 @@ export const gamesCatalogue = [
                         name: "Ледяной Дух ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/5c30e60d-779d-46bf-9cff-f1c2603b1019.jpg",
+                        image: "/shop_clashroyale_23.jpg",
                         cost: 479,
                     },
                     {
@@ -439,7 +439,7 @@ export const gamesCatalogue = [
                         name: "500000 Золото + 1250 Карт-Джокеров | 8X Выгоды ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/d87e9dc8-355e-4fc7-80ac-3eda65d9b541.jpg",
+                        image: "/shop_clashroyale_24.jpg",
                         cost: 499,
                     },
                     {
@@ -447,31 +447,31 @@ export const gamesCatalogue = [
                         name: "Эволюция Валькирии | Взмах Её Топора Порождает Торнадо!",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/8a152dce-0adf-4728-925c-2c1c5ae0dc1d.jpg",
+                        image: "/shop_clashroyale_25.jpg",
                         cost: 499,
                     },
-                    {
-                        id: 63,
-                        name: "Некоторые любят погорячее | 3 Эволюции колдуна",
-                        description:
-                            "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "",
-                        cost: 499,
-                    },
-                    {
-                        id: 64,
-                        name: "Двойная Бочка| 3 Эволюции Бочки",
-                        description:
-                            "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "",
-                        cost: 499,
-                    },
+                    // {
+                    //     id: 63,
+                    //     name: "Некоторые любят погорячее | 3 Эволюции колдуна",
+                    //     description:
+                    //         "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
+                    //     image: "",
+                    //     cost: 499,
+                    // },
+                    // {
+                    //     id: 64,
+                    //     name: "Двойная Бочка| 3 Эволюции Бочки",
+                    //     description:
+                    //         "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
+                    //     image: "",
+                    //     cost: 499,
+                    // },
                     {
                         id: 141,
                         name: "5 Легендарных Карт-Джокеров | 7 Часть Цепочки",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/ada0bae3-6cc5-4c8a-9ef7-d62791225851.jpg",
+                        image: "/shop_clashroyale_26.jpg",
                         cost: 529,
                     },
                     {
@@ -479,23 +479,23 @@ export const gamesCatalogue = [
                         name: "Боевой Таран | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/fdf73964-347e-4a40-b8b4-d888bf2bfdac.jpg",
+                        image: "/shop_clashroyale_27.jpg",
                         cost: 549,
                     },
-                    {
-                        id: 26,
-                        name: "Улучшение Gold Pass до Diamond Pass",
-                        description:
-                            "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "",
-                        cost: 549,
-                    },
+                    // {
+                    //     id: 26,
+                    //     name: "Улучшение Gold Pass до Diamond Pass",
+                    //     description:
+                    //         "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
+                    //     image: "",
+                    //     cost: 549,
+                    // },
                     {
                         id: 180,
                         name: "2000 Карт-Джокеров + 500 Редких Карт-Джокеров + 1 Легендарная Карта-Джокер | X11 Выгода ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/ab594db1-4016-4432-990d-744bcd3a0ccc.jpg",
+                        image: "/shop_clashroyale_28.jpg",
                         cost: 549,
                     },
                     {
@@ -503,7 +503,7 @@ export const gamesCatalogue = [
                         name: "Огненная Лучница | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/d7a4a2f5-f2dd-4058-9dd2-89e1ede78d7f.jpg",
+                        image: "/shop_clashroyale_29.jpg",
                         cost: 549,
                     },
                     {
@@ -511,7 +511,7 @@ export const gamesCatalogue = [
                         name: "Валькирия | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/596b8438-25a9-481e-a9bc-573202c48514.jpg",
+                        image: "/shop_clashroyale_30.jpg",
                         cost: 549,
                     },
                     {
@@ -519,7 +519,7 @@ export const gamesCatalogue = [
                         name: "Гоблин-Гигант | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/cbaea2da-18b6-4e6c-bbae-90e2746d4cf2.jpg",
+                        image: "/shop_clashroyale_31.jpg",
                         cost: 549,
                     },
                     {
@@ -527,7 +527,7 @@ export const gamesCatalogue = [
                         name: "Королевский Гигант | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/19840e0f-37f5-4a23-a200-d386845643ee.jpg",
+                        image: "/shop_clashroyale_32.jpg",
                         cost: 549,
                     },
                     {
@@ -535,7 +535,7 @@ export const gamesCatalogue = [
                         name: "Королевские Рекруты | Акция С Эволюцией Карт",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/d9d724e8-38c0-4c07-8936-4b0b11381e3b.jpg",
+                        image: "/shop_clashroyale_33.jpg",
                         cost: 549,
                     },
                     {
@@ -543,7 +543,7 @@ export const gamesCatalogue = [
                         name: "3 Чемпионские Карты-Джокер | Королевская Шедрость 3 часть ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/192cc2ed-4966-45cc-955a-7f2cedb561f5.jpg",
+                        image: "/shop_clashroyale_34.jpg",
                         cost: 599,
                     },
                     {
@@ -551,23 +551,23 @@ export const gamesCatalogue = [
                         name: "Эволюция Мегарыцаря | Акция ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/dbec2ce7-2ba7-4921-b03a-589b77026208.jpg",
+                        image: "/shop_clashroyale_35.jpg",
                         cost: 599,
                     },
-                    {
-                        id: 24,
-                        name: "50 000 Элитных карт-джокеров",
-                        description:
-                            "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "",
-                        cost: 639,
-                    },
+                    // {
+                    //     id: 24,
+                    //     name: "50 000 Элитных карт-джокеров",
+                    //     description:
+                    //         "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
+                    //     image: "",
+                    //     cost: 639,
+                    // },
                     {
                         id: 259,
                         name: "120 Эпических Карт-Джокеров | Эпическое Усиления Цепочка Акций ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/af8a786a-169d-405c-832c-ebdc4e03774a.jpg",
+                        image: "/shop_clashroyale_36.jpg",
                         cost: 649,
                     },
                     {
@@ -575,7 +575,7 @@ export const gamesCatalogue = [
                         name: "Поздравляем С Достижением Арены 11! ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/998fb836-40b8-4deb-aebb-f5166f1a34c2.jpg",
+                        image: "/shop_clashroyale_37.jpg",
                         cost: 899,
                     },
                     {
@@ -583,7 +583,7 @@ export const gamesCatalogue = [
                         name: "Особая Акция 12X Выгоды ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/0d410cc0-d0dc-41fb-ad1c-a925b623176d.jpg",
+                        image: "/shop_clashroyale_38.jpg",
                         cost: 899,
                     },
                     {
@@ -591,7 +591,7 @@ export const gamesCatalogue = [
                         name: "1 Легендарная Книга Карт | 10 Часть Цепочки",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/46fa575e-367b-4f87-9996-39af672b37b5.jpg",
+                        image: "/shop_clashroyale_39.jpg",
                         cost: 1069,
                     },
                     {
@@ -599,7 +599,7 @@ export const gamesCatalogue = [
                         name: "Копилка | 320 000",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/aeeee939-30df-4473-b788-272c07f315cb.jpg",
+                        image: "/shop_clashroyale_40.jpg",
                         cost: 1099,
                     },
                     {
@@ -607,7 +607,7 @@ export const gamesCatalogue = [
                         name: "Эволюция Мегарыцаря | Акция ",
                         description:
                             "❇️Моментальное пополнение\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов",
-                        image: "https://s3.bilee.ru/dodoseller/cd9742ca-746b-4ff0-b929-93dd400e71de.jpg",
+                        image: "/shop_clashroyale_41.jpg",
                         cost: 1249,
                     },
                     {
@@ -615,7 +615,7 @@ export const gamesCatalogue = [
                         name: "Книга Кнги | Королевская Шедрость 6 часть ",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/2e6237ec-0fe2-4750-a0b6-9c09f63acb3f.jpg",
+                        image: "/shop_clashroyale_42.jpg",
                         cost: 2249,
                     },
                     {
@@ -623,7 +623,7 @@ export const gamesCatalogue = [
                         name: "Цепочка Акций Королевская Щедрость Полностью",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/1516a548-ed57-4d78-961f-e55cf7ebed49.jpg",
+                        image: "/shop_clashroyale_43.jpg",
                         cost: 3099,
                     },
                 ],
@@ -638,7 +638,7 @@ export const gamesCatalogue = [
                         name: "Diamond Pass | Скидка",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/3a3d873c-dd64-49f7-af1d-8cc86d51de8a.jpg",
+                        image: "/shop_clashroyale_44.jpg",
                         cost: 990,
                     },
                     {
@@ -646,7 +646,7 @@ export const gamesCatalogue = [
                         name: "Diamond Pass",
                         description:
                             "❇️Быстрое выполнение заказа\n✳️Покупка через официальный магазин\n❇️Работает для всех аккаунтов ",
-                        image: "https://s3.bilee.ru/dodoseller/0b6bdb0d-dd3a-4671-849e-8c840d3b4663.jpg",
+                        image: "/shop_clashroyale_45.jpg",
                         cost: 1199,
                     },
                 ],
@@ -660,42 +660,42 @@ export const gamesCatalogue = [
                         id: 16,
                         name: "80 кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 129,
                     },
                     {
                         id: 17,
                         name: "500 Кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 519,
                     },
                     {
                         id: 18,
                         name: "1200 Кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 1049,
                     },
                     {
                         id: 19,
                         name: "2500 Кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 2049,
                     },
                     {
                         id: 20,
                         name: "6500 Кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 4899,
                     },
                     {
                         id: 21,
                         name: "14000 Кристаллов",
                         description: "",
-                        image: "",
+                        image: "/shop_clashroyale_46.webp",
                         cost: 8999,
                     },
                 ],
