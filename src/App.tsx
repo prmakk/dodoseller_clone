@@ -12,11 +12,16 @@ function App() {
     return (
         <>
             <Header />
-            <Routes>
-                <Route path="/" element={<HomePage />} />
-                <Route path="/game/:id" element={<GamePage />} />
-                <Route path="/game/:id/:productId" element={<DetailsPage />} />
-            </Routes>
+            <main className="main">
+                <Routes>
+                    <Route path="/" element={<HomePage />} />
+                    <Route path="/game/:id" element={<GamePage />} />
+                    <Route
+                        path="/game/:id/:productId"
+                        element={<DetailsPage />}
+                    />
+                </Routes>
+            </main>
             <Footer />
         </>
     );
