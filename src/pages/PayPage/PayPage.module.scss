@@ -1,0 +1,108 @@
+@use "../../styles/mixins" as *;
+
+.pay {
+    @include page();
+    max-width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    padding-bottom: 16px;
+    width: 100%;
+
+    &__title {
+        margin-top: 56px;
+        font-size: 24px;
+        font-weight: 600;
+        text-align: center;
+
+        span {
+            color: #000aff;
+        }
+    }
+
+    &__method {
+        margin-top: 36px;
+
+        &_title {
+            font-size: 24px;
+            font-weight: 600;
+            line-height: normal;
+        }
+
+        &_buttons {
+            margin-top: 6px;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+
+            button {
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 5px;
+                cursor: pointer;
+                padding: 12px 16px 12px 12px;
+                border-radius: 15px;
+                border: 1px solid transparent;
+                background-color: rgb(248 248 248);
+                width: 100%;
+                font-size: 16px;
+
+                img {
+                    max-width: 24px;
+                }
+
+                &.active {
+                    border: 1px solid #000aff;
+                }
+            }
+        }
+    }
+
+    &__email {
+        margin-top: 20px;
+
+        &_title {
+            font-size: 24px;
+            font-weight: 600;
+            line-height: normal;
+        }
+
+        &_input {
+            font-size: 16px;
+            border-radius: 15px;
+            margin-top: 6px;
+            width: 100%;
+            background-color: rgb(248 248 248);
+            border: none;
+            padding: 12px 16px;
+            outline: none;
+        }
+
+        &_subtitle {
+            margin-top: 6px;
+            color: rgb(121 121 121);
+            font-size: 14px;
+            line-height: normal;
+        }
+    }
+
+    &__submit {
+        margin: 40px 0px 120px;
+        width: 100%;
+        font-size: 24px;
+        font-weight: 600;
+        background-color: #000aff;
+        border: none;
+        color: #fff;
+        padding: 16px;
+        border-radius: 15px;
+        transition: 0.1s all ease-in;
+        cursor: pointer;
+
+        &:disabled {
+            background-color: #b2b5ff;
+            color: #000;
+        }
+    }
+}

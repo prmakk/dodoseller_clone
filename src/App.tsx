@@ -7,6 +7,7 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import GamePage from "./pages/GamePage/GamePage";
 import DetailsPage from "./pages/DetailsPage/DetailsPage";
+import PayPage from "./pages/PayPage/PayPage";
 
 function App() {
     return (
@@ -19,6 +20,10 @@ function App() {
                     <Route
                         path="/game/:id/:productId"
                         element={<DetailsPage />}
+                    />
+                    <Route
+                        path="/game/:id/:productId/pay"
+                        element={<PayPage />}
                     />
                 </Routes>
             </main>

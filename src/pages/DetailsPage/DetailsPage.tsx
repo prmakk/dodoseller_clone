@@ -87,7 +87,10 @@ const DetailsPage: FC = () => {
                     <p className={styles.buy__price_cost}>{product?.cost} ₽</p>
                 </div>
 
-                <Link to={"/"} className={styles.buy__button}>
+                <Link
+                    to={`/game/${gameId}/${productId}/pay`}
+                    className={styles.buy__button}
+                >
                     Купить
                 </Link>
             </div>
