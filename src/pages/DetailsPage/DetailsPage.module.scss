@@ -33,6 +33,7 @@
             img {
                 display: block; // Убирает лишние отступы
                 margin: auto; // Центрирует изображение по горизонтали
+                max-height: 300px;
                 position: relative; // Отменяет абсолютное позиционирование
                 max-width: 100%;
                 object-fit: contain;
